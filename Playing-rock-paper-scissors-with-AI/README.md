@@ -1,3 +1,20 @@
+# Modified code
+
+```
+conda create -n rps Python=3.8
+pip install -r requirements.txt
+
+# To train the model
+jupyter-lab 
+# Then open Rock_paper_scissor.ipynb
+
+# To play the game
+python game.py
+```
+
+- Trained model attached with the repo
+
+
 # Playing Rock, Paper, Scissors with AI
 
 This repository contains the notebook for "Playing Rock, Paper, Scissors with AI" Tutorial
