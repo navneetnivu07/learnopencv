@@ -1,6 +1,6 @@
 opencv-contrib-python
 scikit-learn
-tensorflow==2.2.0
+tensorflow==2.7.2
 numpy
 matplotlib
 scipy
